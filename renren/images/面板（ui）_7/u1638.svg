@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<title>ui_3_panel</title>
+<path id="ui_3_panel" fill="#A9A9A9" d="M52,14c1.104,0,2,0.896,2,2s-0.896,2-2,2s-2-0.896-2-2S50.896,14,52,14z M46,14
+	c1.104,0,2,0.896,2,2s-0.896,2-2,2s-2-0.896-2-2S44.896,14,46,14z M40,14c1.104,0,2,0.896,2,2s-0.896,2-2,2s-2-0.896-2-2
+	S38.896,14,40,14z M56,10H8c-2.209,0-4,1.791-4,4v38c0,2.209,1.791,4,4,4h48c2.209,0,4-1.791,4-4V14C60,11.791,58.209,10,56,10z
+	 M26,22h32v14H26V22z M8,12h48c1.104,0,2,0.896,2,2v6H6v-6C6,12.896,6.896,12,8,12z M6,52V22h18v32H8C6.896,54,6,53.104,6,52z
+	 M56,54H26V38h32v14C58,53.104,57.104,54,56,54z"/>
+</svg>

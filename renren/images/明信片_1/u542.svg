@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<title>postcard</title>
+<path fill="#A9A9A9" d="M57,10H7c-1.455-0.202-2.798,0.814-3,2.27C3.966,12.512,3.966,12.758,4,13v38c0,2.07,0.92,3,3,3h50
+	c2,0,3-1,3-3V13c0.201-1.455-0.814-2.798-2.27-3C57.488,9.966,57.242,9.966,57,10z M58,51c0,0.939-0.061,1-1,1H7c-1,0-1,0-1-1V13
+	c0-0.89,0.11-1,1-1h50c0.891,0,1,0.11,1,1V51z"/>
+<path fill="#A9A9A9" d="M53,18h-8c-0.553,0-1,0.448-1,1v10c0,0.552,0.447,1,1,1h8c0.553,0,1-0.448,1-1V19C54,18.448,53.553,18,53,18
+	z M52,28h-6v-8h6V28z"/>
+<path fill="#A9A9A9" d="M35,22H11c-0.552,0-1,0.448-1,1s0.448,1,1,1h24c0.553,0,1-0.448,1-1S35.553,22,35,22z"/>
+<path fill="#A9A9A9" d="M35,28H11c-0.552,0-1,0.448-1,1s0.448,1,1,1h24c0.553,0,1-0.448,1-1S35.553,28,35,28z"/>
+<path fill="#A9A9A9" d="M35,34H11c-0.552,0-1,0.447-1,1s0.448,1,1,1h24c0.553,0,1-0.447,1-1S35.553,34,35,34z"/>
+<path fill="#A9A9A9" d="M27,40H11c-0.552,0-1,0.447-1,1s0.448,1,1,1h16c0.552,0,1-0.447,1-1S27.552,40,27,40z"/>
+</svg>
